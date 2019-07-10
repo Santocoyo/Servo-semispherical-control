@@ -1,0 +1,10 @@
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\bin\Debug\TorretaC.exe.config
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\bin\Debug\TorretaC.exe
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\bin\Debug\TorretaC.pdb
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\obj\Debug\TorretaC.csprojResolveAssemblyReference.cache
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\obj\Debug\TorretaC.Form1.resources
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\obj\Debug\TorretaC.Properties.Resources.resources
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\obj\Debug\TorretaC.csproj.GenerateResource.Cache
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\obj\Debug\TorretaC.csproj.CoreCompileInputs.cache
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\obj\Debug\TorretaC.exe
+C:\Users\alesa\OneDrive - Universidad Autonoma de Yucatan\Documentos\Programación\Torreta(Arduino+C#)\TorretaC\TorretaC\obj\Debug\TorretaC.pdb
